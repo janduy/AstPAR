@@ -23,9 +23,11 @@ Os usuários cadastrados no sistema podem acessar o Portal de Telefonia através
 O Asterisco Paraná quando de seu auge era integrado com o Expresso Livre, permitindo realizar ligações telefônicas através do Expresso Livre.
 
 O endereço do repositório para instalação era este:
+
 deb http://www.repositorios.pr.gov.br/voip squezee main
 
 E neste endereço existia informações detalhes sobre a instalação: 
+
 http://www.asteriscoparana.pr.gov.br/modules/conteudo/conteudo.php?conteudo=6
 
 * fonte: Asterisco Paraná
